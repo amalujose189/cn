@@ -1,0 +1,2 @@
+Linux is a opensource os.
+Linux contains shell and kernel
